@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariful4593&show_icons=true&locale=en" alt="ariful4593" /></p>
 
-[![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful4593)](https://github.com/Ariful4593/Ariful4593/blob/main/README.md)
+[![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful4593&count_private=true)](https://github.com/Ariful4593/Ariful4593/blob/main/README.md)
