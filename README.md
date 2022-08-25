@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ariful.og@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oExgxCSUgnWRxcK2CeCDl17IiJwaOnuy/view](https://drive.google.com/file/d/1oExgxCSUgnWRxcK2CeCDl17IiJwaOnuy/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oExgxCSUgnWRxcK2CeCDl17IiJwaOnuy/view?usp=sharing](https://drive.google.com/file/d/1oExgxCSUgnWRxcK2CeCDl17IiJwaOnuy/view?usp=sharing)
 
 - ⚡ Fun fact **One Day i will find the right words and they will be simple**
 
