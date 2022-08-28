@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Self Learning**
 
-- 🌱 I’m currently learning **Redux.js, RTK Query, Reudx-Thunk.**
+- 🌱 I’m currently learning **Redux.js, Redux Toolkit, Reudx-Thunk.**
 
 - 👨‍💻 All of my projects are available at [https://pro-ariful.firebaseapp.com/](https://pro-ariful.firebaseapp.com/)
 
