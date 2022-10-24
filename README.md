@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful4593&label=Profile%20views&color=0e75b6&style=flat" alt="ariful4593" /> </p>
 
-- 🔭 I’m currently working on **Self Learning**
+- 🔭 I’m currently working on **Front-End Devloper at iBOS Limited**
 
 - 🌱 I’m currently learning **Redux.js, Redux Toolkit, Reudx-Thunk.**
 
