@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Associate Software Engineer at SSL Wireless**
 
-- 🌱 I’m currently learning **Redux.js, Redux Toolkit, Reudx-Thunk.**
+- 🌱 I’m currently learning **Nestjs and Typescript**
 
 <!-- - 👨‍💻 All of my projects are available at [https://pro-ariful.firebaseapp.com/](https://pro-ariful.firebaseapp.com/) -->
 
