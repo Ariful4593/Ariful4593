@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working on **Associate Software Engineer at SSL Wireless**
 
-- 🌱 I’m currently learning **Nestjs and Typescript**
+- 🌱 I’m currently learning **In depth of JavaScript**
 
 <!-- - 👨‍💻 All of my projects are available at [https://pro-ariful.firebaseapp.com/](https://pro-ariful.firebaseapp.com/) -->
 
 - 💬 Ask me about **MERN Stack.**
 
 - 📫 How to reach me **ariful.og@gmail.com**
-- ⚡ Fun fact **One Day i will find the right words and they will be simple**
+- ⚡ Fun fact **One Day I will find the right words and they will be simple**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
