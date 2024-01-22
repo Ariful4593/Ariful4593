@@ -9,7 +9,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://pro-ariful.firebaseapp.com/](https://pro-ariful.firebaseapp.com/) -->
 
-- 💬 Ask me about **MERN Stack.**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **islam.ariful@sslwireless.com**
 - ⚡ Fun fact **One Day I will find the right words and they will be simple**
