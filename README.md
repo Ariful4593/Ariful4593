@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/13847671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13847671" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ariful4593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ariful4593" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/arifulislamnationalinstitute/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arifulislamnationalinstitute/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ariful4593/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ariful4593/" height="30" width="40" /></a>
+<a href="https://leetcode.com/ariful4593/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ariful4593/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
