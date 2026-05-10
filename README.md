@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful4593&label=Profile%20views&color=0e75b6&style=flat" alt="ariful4593" /> </p>
 
-- 🔭 I’m currently working at **SSL Wireless as a Software Specialist**
+- 🔭 I’m currently working at **SSL Wireless as a Senior Software Specialist**
 
 - 🌱 I’m currently learning **In depth of JavaScript**
 
