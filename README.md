@@ -9,22 +9,18 @@
 </p>
 
 <p align="center">
-  I build scalable, maintainable, and high-performance enterprise frontend systems with strict architectural boundaries.
+  Architecting scalable, high-performance enterprise frontend systems with strict structural boundaries and clean code governance.
 </p>
 
 ---
 
 ## About Me
 
-- I’m currently working as a **Senior Software Specialist at SSL Wireless**.
-- I have **4+ years of professional experience** in frontend engineering, system architecture, and enterprise web application development.
-- My core expertise is in **React.js, TypeScript, Redux Toolkit, TanStack Query, Next.js, Vite, Astro, and Scalable Atomic Frontend Architecture**.
-- I lead frontend architecture for high-scale enterprise products, primarily **DSaaS — Distribution & Sales Automation System** and **Hercules SCM**, serving **5,000+ active enterprise users**.
-- I architect complex business modules for **supply chain management, RBAC permission matrices, financial collection staging engines, real-time WebSocket sync, cinema ticketing systems, and fintech checkout funnels**.
-- I reduced squad feature shipping timelines by **35%** by implementing standardized **Atomic Component Governance**, design system contracts, and strict **Hook-First Law** logic-UI separation.
-- I actively utilize advanced AI-assisted development workflows with **Google Antigravity IDE, Anthropic Claude API, Gemini, Cursor AI, ChatGPT, v0.dev, and Spec-Driven Engineering**.
-- I believe frontend systems should maintain clear boundaries between **UI, Data Interfaces, Domain Logic, State Management, and Design System Governance**.
-- Reach me at **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://github.com/Ariful4593)**
+- **Current Role:** Senior Software Specialist at **SSL Wireless**, leading enterprise frontend architecture for **DSaaS** and **Hercules SCM** (serving 5,000+ active users).
+- **Core Focus:** Building complex supply chain modules, dynamic RBAC permission matrices, real-time WebSocket sync engines, and secure fintech payment gateways.
+- **Engineering Impact:** Reduced squad feature delivery timelines by **35%** through standardized **Atomic Component Governance** and strict **Hook-First Law** logic-UI separation.
+- **AI-Assisted Workflows:** Actively leverage modern spec-driven development tools, including **Google Antigravity, Claude API, Cursor AI, and Gemini**.
+- **Get in Touch:** **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://ariful4593.github.io/ariful-devlog)**
 
 ---
 
@@ -130,7 +126,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google antigravity ide" />
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude api" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor ai" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="github copilot" />
@@ -145,23 +140,16 @@
 
 ```txt
 ┌─────────────────────────────────────────────────────────┐
-│                      UI LAYER                           │
-│        Renders layout & maps props to JSX only.        │
+│                     UI LAYER                            │
+│         Renders layout & maps props to JSX only.        │
 └──────────────────────────┬──────────────────────────────┘
                            │ Consumes Hooks & Context
 ┌──────────────────────────▼──────────────────────────────┐
 │                    LOGIC (HOOKS)                        │
-│   Manages local UI state, handlers & side effects.       │
+│    Manages local UI state, handlers & side effects.     │
 └──────────────────────────┬──────────────────────────────┘
                            │ Interfaces via Services
 ┌──────────────────────────▼──────────────────────────────┐
-│                DATA & DOMAIN INTERFACE                  │
-│   Handles API calls, Zod validation & server state.     │
+│             DATA & DOMAIN INTERFACE                     │
+│    Handles API calls, Zod validation & server state.    │
 └─────────────────────────────────────────────────────────┘
-```
-
-1. **Pure Presentation UI**: UI components focus strictly on layout rendering and receiving data/handlers via props or context.
-2. **Hook-First Law**: Zero business logic inside UI components; all state, effects, and API handlers reside in custom hooks.
-3. **Data Interface Isolation**: API callers, payload sanitation (`removeFalsyValue`), and org context injection are handled in service callers.
-4. **State Boundary Separation**: Clean separation between Server State, Local UI State, and URL SearchParams.
-5. **Governed Atomic Design**: Component contracts are documented and enforced across teams, reducing feature shipping cycles by 35%.
