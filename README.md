@@ -1,5 +1,3 @@
-Yes! Here is the **100% clean, raw Markdown file content** ready to be copied directly into your `README.md` file:
-
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 
 <h3 align="center">
