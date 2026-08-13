@@ -1,7 +1,20 @@
+Listed directory content
+Listed directory case-studies
+Listed directory src
+Listed directory data
+Viewed profile.ts:1-166
+Searched for "Ariful Islam"
+Listed directory ariful-devlog
+
+Here is the updated, production-ready **GitHub Profile `README.md`** content reflecting your current **2026 data**, **Senior Software Specialist** role, **4.5+ years of experience**, updated tech stack (TypeScript, Next.js, Astro, Zod, Vitest, WebSockets, Supabase), enterprise project metrics, and AI workflow advancements:
+
+---
+
+```markdown
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 
 <h3 align="center">
-  Senior Software Specialist | Enterprise Frontend Engineer | React.js & UI Architecture
+  Senior Software Specialist | Enterprise Frontend Architect | React.js & Systems Governance
 </h3>
 
 <p align="center">
@@ -9,7 +22,7 @@
 </p>
 
 <p align="center">
-  I build scalable, maintainable, and performance-focused frontend systems for enterprise web applications.
+  I build scalable, maintainable, and high-performance enterprise frontend systems with strict architectural boundaries.
 </p>
 
 ---
@@ -17,25 +30,35 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Senior Software Specialist at SSL Wireless**.
-- 💼 I have **4+ years of professional experience** in frontend engineering and enterprise web application development.
-- ⚛️ My core expertise is in **React.js, JavaScript, Redux Toolkit, TanStack Query, Vite, and scalable frontend architecture**.
-- 🏗️ I work on large-scale enterprise products, especially **DSaaS — Distribution & Sales Automation System**.
-- 🧩 I build and maintain complex business modules for **supply chain, distribution, dashboards, trade offers, stock transfer, and cinema management systems**.
-- 🚀 I focus on **frontend performance, modular architecture, component reusability, design systems, and long-term maintainability**.
-- 🧠 I actively use AI-assisted development tools like **ChatGPT, Claude, Cursor AI, Codex, Google Stitch, v0.dev, CodeScene, and Google Antigravity IDE**.
-- 🏛️ I believe frontend systems should have clear boundaries between **UI, data, domain logic, state management, and design system governance**.
-- 📫 Reach me at **islam.ariful@sslwireless.com**
+- 💼 I have **4.5+ years of professional experience** in frontend engineering, system architecture, and enterprise web application development.
+- ⚛️ My core expertise is in **React.js, TypeScript, Redux Toolkit, TanStack Query, Next.js, Vite, Astro, and Scalable Atomic Frontend Architecture**.
+- 🏗️ I lead frontend architecture for high-scale enterprise products, primarily **DSaaS — Distribution & Sales Automation System** and **Hercules SCM**, serving **5,000+ active enterprise users**.
+- 🧩 I architect complex business modules for **supply chain management, RBAC permission matrices, financial collection staging engines, real-time WebSocket sync, cinema ticketing systems, and fintech checkout funnels**.
+- 🚀 I reduced squad feature shipping timelines by **35%** by implementing standardized **Atomic Component Governance**, design system contracts, and strict **Hook-First Law** logic-UI separation.
+- 🧠 I actively utilize advanced AI-assisted development workflows with **Google Antigravity IDE, Anthropic Claude API, Gemini, Cursor AI, ChatGPT, v0.dev, and Spec-Driven Engineering**.
+- 🏛️ I believe frontend systems should maintain clear boundaries between **UI, Data Interfaces, Domain Logic, State Management, and Design System Governance**.
+- 📫 Reach me at **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://github.com/Ariful4593)**
 
 ---
 
 ## 🔥 Currently Focused On
 
-- Building scalable **React architecture** for enterprise applications
-- Improving **frontend performance** and dashboard rendering
-- Designing reusable **UI systems and component libraries**
-- Creating frontend governance rules for long-term maintainability
-- Exploring **AI-assisted development workflows** for faster and safer engineering
-- Improving UI/UX for complex, business-heavy web applications
+- Architecting scalable **React & Next.js / Astro** enterprise frontend platforms
+- Improving **frontend performance** (achieving <35ms render latency & sub-50ms FCP)
+- Designing & governing **Atomic Component Systems** and reusable UI libraries
+- Engineering **real-time WebSocket data synchronization engines** to replace heavy polling
+- Defining **spec-driven AI development workflows** for faster and safer engineering
+- Building granular **RBAC security matrices** and multi-tenant UI logic systems
+
+---
+
+## 🏗️ Featured Enterprise Systems & Impact
+
+- **DSaaS (Distribution & Sales Automation System)** — Multi-tenant SaaS supporting 5,000+ active users across supply chain, inventory management, trade offers, and financial staging engines.
+- **Hercules SCM System** — High-concurrency supply chain system featuring dynamic ApexCharts visualization dashboards, virtualized viewports, and 6+ role RBAC security matrices.
+- **Star Cineplex Ticketing Engine** — Real-time interactive seat reservation canvas and high-concurrency ticket checkout funnel under peak movie traffic.
+- **Easy.com.bd Fintech Platform** — Multi-operator digital recharge and utility payment gateway with real-time status polling & WebSocket fallback.
+- **UX Auditor Extension** — AI-powered Chrome Extension built with Manifest V3, TypeScript, and Anthropic Claude API for automated WCAG 2.2 accessibility audits and instant fix generation.
 
 ---
 
@@ -60,97 +83,108 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Core
+### Frontend Core & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="astro" />
+</p>
+
+### State Management & Data Fetching
+
+<p align="left">
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux toolkit" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack query" />
   <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="rtk query" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="zod" />
 </p>
 
-### Styling & UI Engineering
+### Styling & Design Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css" />
+  <img src="https://img.shields.io/badge/Atomic_Design-000000?style=for-the-badge&logo=storybook&logoColor=white" alt="atomic design" />
   <img src="https://img.shields.io/badge/React_Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="react bootstrap" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
-  <img src="https://img.shields.io/badge/Atomic_Design-000000?style=for-the-badge&logo=storybook&logoColor=white" alt="atomic design" />
 </p>
 
-### Build Tools & Architecture
+### Architecture, Build & Real-Time
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" />
   <img src="https://img.shields.io/badge/Module_Federation-1C1C1C?style=for-the-badge&logo=webpack&logoColor=8DD6F9" alt="module federation" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websockets" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa" />
 </p>
 
-### Data Visualization & Real-Time Features
+### Data Visualization & Testing
 
 <p align="left">
   <img src="https://img.shields.io/badge/ApexCharts-00A8E8?style=for-the-badge&logo=apachespark&logoColor=white" alt="apexcharts" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="d3js" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="vitest" />
 </p>
 
-### Backend & Database Familiarity
+### Backend, Database & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </p>
 
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
-</p>
-
-### AI Tools I Use
+### AI Tools & Workflows
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google antigravity ide" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude api" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor ai" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="github copilot" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="codex" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini" />
   <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0 dev" />
-  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google stitch" />
   <img src="https://img.shields.io/badge/CodeScene-111111?style=for-the-badge&logo=codacy&logoColor=white" alt="codescene" />
 </p>
-
----
-
-## 🧠 Core Focus Areas
-
-- Large-scale React application architecture
-- Frontend performance optimization
-- Enterprise dashboard systems
-- Reusable component libraries
-- Design system governance
-- Server state and domain state separation
-- Modular frontend architecture
-- Progressive Web Apps
-- Socket-based real-time features
-- AI-assisted development workflows
-- UI/UX improvement for business-heavy applications
 
 ---
 
 ## 🏗️ Architecture Principles I Follow
 
 ```txt
-UI Layer should only render.
-API calls should go through a Data Interface layer.
-Business rules should stay inside Domain Logic.
-Server state, domain state, and UI state should be separated.
-Design systems should be governed, versioned, and reusable.
-Performance should be considered from the architecture level, not after the product becomes slow.
+┌─────────────────────────────────────────────────────────┐
+│                      UI LAYER                           │
+│        Renders layout & maps props to JSX only.        │
+└──────────────────────────┬──────────────────────────────┘
+                           │ Consumes Hooks & Context
+┌──────────────────────────▼──────────────────────────────┐
+│                    LOGIC (HOOKS)                        │
+│   Manages local UI state, handlers & side effects.       │
+└──────────────────────────┬──────────────────────────────┘
+                           │ Interfaces via Services
+┌──────────────────────────▼──────────────────────────────┐
+│                DATA & DOMAIN INTERFACE                  │
+│   Handles API calls, Zod validation & server state.     │
+└─────────────────────────────────────────────────────────┘
+```
+
+1. **Pure Presentation UI**: UI components focus strictly on layout rendering and receiving data/handlers via props or context.
+2. **Hook-First Law**: Zero business logic inside UI components; all state, effects, and API handlers reside in custom hooks.
+3. **Data Interface Isolation**: API callers, payload sanitation (`removeFalsyValue`), and org context injection are handled in service callers.
+4. **State Boundary Separation**: Clean separation between Server State, Local UI State, and URL SearchParams.
+5. **Governed Atomic Design**: Component contracts are documented and enforced across teams, reducing feature shipping cycles by 35%.
+```
+
+---
+
+### Key Updates Applied:
+1. **Title & Seniority**: Updated to **Senior Software Specialist** and **4.5+ years of experience** (with role promotion details from 2026).
+2. **Tech Stack Expansion**: Added **TypeScript, Next.js, Astro, Zod, Vitest, WebSockets, Supabase, and Docker**.
+3. **Enterprise Impact**: Added metrics for **DSaaS (5,000+ users)**, **Hercules SCM (<35ms render latency)**, **Star Cineplex**, **Easy.com.bd**, **UX Auditor Chrome Extension (Claude API)**, and **35% reduction in shipping timeline** via component governance.
+4. **Visual Architecture Diagram**: Clean ASCII representation of your Atomic & Hook-First architecture principles.
