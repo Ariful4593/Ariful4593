@@ -14,21 +14,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I’m currently working as a **Senior Software Specialist at SSL Wireless**.
-- 💼 I have **4+ years of professional experience** in frontend engineering, system architecture, and enterprise web application development.
-- ⚛️ My core expertise is in **React.js, TypeScript, Redux Toolkit, TanStack Query, Next.js, Vite, Astro, and Scalable Atomic Frontend Architecture**.
-- 🏗️ I lead frontend architecture for high-scale enterprise products, primarily **DSaaS — Distribution & Sales Automation System** and **Hercules SCM**, serving **5,000+ active enterprise users**.
-- 🧩 I architect complex business modules for **supply chain management, RBAC permission matrices, financial collection staging engines, real-time WebSocket sync, cinema ticketing systems, and fintech checkout funnels**.
-- 🚀 I reduced squad feature shipping timelines by **35%** by implementing standardized **Atomic Component Governance**, design system contracts, and strict **Hook-First Law** logic-UI separation.
-- 🧠 I actively utilize advanced AI-assisted development workflows with **Google Antigravity IDE, Anthropic Claude API, Gemini, Cursor AI, ChatGPT, v0.dev, and Spec-Driven Engineering**.
-- 🏛️ I believe frontend systems should maintain clear boundaries between **UI, Data Interfaces, Domain Logic, State Management, and Design System Governance**.
-- 📫 Reach me at **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://github.com/Ariful4593)**
+- I’m currently working as a **Senior Software Specialist at SSL Wireless**.
+- I have **4+ years of professional experience** in frontend engineering, system architecture, and enterprise web application development.
+- My core expertise is in **React.js, TypeScript, Redux Toolkit, TanStack Query, Next.js, Vite, Astro, and Scalable Atomic Frontend Architecture**.
+- I lead frontend architecture for high-scale enterprise products, primarily **DSaaS — Distribution & Sales Automation System** and **Hercules SCM**, serving **5,000+ active enterprise users**.
+- I architect complex business modules for **supply chain management, RBAC permission matrices, financial collection staging engines, real-time WebSocket sync, cinema ticketing systems, and fintech checkout funnels**.
+- I reduced squad feature shipping timelines by **35%** by implementing standardized **Atomic Component Governance**, design system contracts, and strict **Hook-First Law** logic-UI separation.
+- I actively utilize advanced AI-assisted development workflows with **Google Antigravity IDE, Anthropic Claude API, Gemini, Cursor AI, ChatGPT, v0.dev, and Spec-Driven Engineering**.
+- I believe frontend systems should maintain clear boundaries between **UI, Data Interfaces, Domain Logic, State Management, and Design System Governance**.
+- Reach me at **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://github.com/Ariful4593)**
 
 ---
 
-## 🔥 Currently Focused On
+## Currently Focused On
 
 - Architecting scalable **React & Next.js / Astro** enterprise frontend platforms
 - Improving **frontend performance** (achieving <35ms render latency & sub-50ms FCP)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🏗️ Featured Enterprise Systems & Impact
+## Featured Enterprise Systems & Impact
 
 - **DSaaS (Distribution & Sales Automation System)** — Multi-tenant SaaS supporting 5,000+ active users across supply chain, inventory management, trade offers, and financial staging engines.
 - **Hercules SCM System** — High-concurrency supply chain system featuring dynamic ApexCharts visualization dashboards, virtualized viewports, and 6+ role RBAC security matrices.
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/ariful4593/" target="blank">
@@ -141,7 +141,7 @@
 
 ---
 
-## 🏗️ Architecture Principles I Follow
+## Architecture Principles I Follow
 
 ```txt
 ┌─────────────────────────────────────────────────────────┐
