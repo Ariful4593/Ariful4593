@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Senior Software Specialist at SSL Wireless**.
-- 💼 I have **4.5+ years of professional experience** in frontend engineering, system architecture, and enterprise web application development.
+- 💼 I have **4+ years of professional experience** in frontend engineering, system architecture, and enterprise web application development.
 - ⚛️ My core expertise is in **React.js, TypeScript, Redux Toolkit, TanStack Query, Next.js, Vite, Astro, and Scalable Atomic Frontend Architecture**.
 - 🏗️ I lead frontend architecture for high-scale enterprise products, primarily **DSaaS — Distribution & Sales Automation System** and **Hercules SCM**, serving **5,000+ active enterprise users**.
 - 🧩 I architect complex business modules for **supply chain management, RBAC permission matrices, financial collection staging engines, real-time WebSocket sync, cinema ticketing systems, and fintech checkout funnels**.
