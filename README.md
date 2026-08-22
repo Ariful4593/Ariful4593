@@ -20,7 +20,7 @@
 - **Core Focus:** Building complex supply chain modules, dynamic RBAC permission matrices, real-time WebSocket sync engines, and secure fintech payment gateways.
 - **Engineering Impact:** Reduced squad feature delivery timelines by **35%** through standardized **Atomic Component Governance** and strict **Hook-First Law** logic-UI separation.
 - **AI-Assisted Workflows:** Actively leverage modern spec-driven development tools, including **Google Antigravity, Claude API, Cursor AI, and Gemini**.
-- **Get in Touch:** **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://ariful4593.github.io/ariful-devlog)**
+- **Get in Touch:** **islam.ariful@sslwireless.com** | Portfolio: **[ariful.dev](https://ariful4593.github.io/devlog)**
 
 ---
 
